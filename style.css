@@ -1,19 +1,11 @@
-#navMid {
-}
 
-body {
-  margin: 0;
-  padding: 0;
-  width: 100%;
-  height: 100%;
-}
 
 .navMid-child {
   position: relative;
   float: left;
   left: 30rem;
   bottom: 2rem;
-  padding-left: 6rem;
+  padding-left: 4rem;
   font-size: 2rem;
 }
 .navEnd-child {
@@ -24,9 +16,8 @@ body {
   float: left;
 }
 #imgMain {
-  position: relative;
-  left: 80rem;
-  bottom: 95rem;
+ float: right;
+ margin-top: 3rem;
 }
 #navFirst {
   position: relative;
@@ -35,34 +26,85 @@ body {
 }
 #midWholePart1 {
   position: absolute;
-  margin: 0%;
-  padding: 0;
 }
-#midWholePart11{
+#midWholePart11 {
+  position: relative;
+  left: 18rem;
+  top: 10rem;
+  font-size: larger;
+  padding-bottom: 0px;
+}
+#midWholePart121 {
+  display: flex;
+  font-size: 1.1rem;
+  color: whitesmoke;
+}
+#midWholePart122 {
+  margin-top: 1.6rem;
+  padding-left: 15px;
+}
+#midWholePart12 {
+  position: relative;
+  background-color: aquamarine;
+  left: 35%;
+  top: 15rem;
+  width: 15rem;
+ padding-left: 2rem;
+ border-radius: 30px;
+}
+#midWholePart13 {
+  position: relative;
+  display: flex;
 
-    position: relative;
-    left: 18rem;
-    top: 10rem;
+  top: 25rem;
+  left: 15rem;
+}
+.tag1 {
+  position: relative;
+  left: 7rem;
+  bottom: 7rem;
+  font-size: 25px;
+
+}
+.tag2 {
+  position: relative;
+  left: 8rem;
+  bottom: 6rem;
+  font-size: 25px;
+  font-weight: 800;
+  
+}
+.midWholePart13Parts {
+  position: relative;
+  margin-left: 3rem;
+  bottom: 3rem;
+}
+
+.text1 {
+  position: relative;
+  width: 15rem;
+  left: 7rem;
+  bottom: 9rem;
+  text-align: left;
+}
+.text2 {
+  position: relative;
+  left: 8rem;
+  bottom: 8rem;
+  width: 15rem;
+}
+#light {
+  padding-left: 4rem;
+  
+}
+#care {
+  padding-left: 3rem;
+   
+}
+#monstera{
+
+    font-size: 6rem;
+    margin-bottom: 0;
     
 }
-#midWholePart121{
- position: relative;
 
-
-}
-#midWholePart122{
-position: relative;
-left: 11rem;
-
-bottom: 3rem;
-background-color: brown;
-
- 
-}
-#midWholePart12{
-
-    position: absolute;
-    background-color: brown;
-    left: 50%;
-    top: 20rem;
-}
