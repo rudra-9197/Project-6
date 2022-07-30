@@ -1,5 +1,3 @@
-
-
 .navMid-child {
   position: relative;
   float: left;
@@ -16,8 +14,8 @@
   float: left;
 }
 #imgMain {
- float: right;
- margin-top: 3rem;
+  float: right;
+  margin-top: 3rem;
 }
 #navFirst {
   position: relative;
@@ -32,7 +30,6 @@
   left: 18rem;
   top: 10rem;
   font-size: larger;
-  padding-bottom: 0px;
 }
 #midWholePart121 {
   display: flex;
@@ -49,8 +46,8 @@
   left: 35%;
   top: 15rem;
   width: 15rem;
- padding-left: 2rem;
- border-radius: 30px;
+  padding-left: 2rem;
+  border-radius: 30px;
 }
 #midWholePart13 {
   position: relative;
@@ -64,7 +61,6 @@
   left: 7rem;
   bottom: 7rem;
   font-size: 25px;
-
 }
 .tag2 {
   position: relative;
@@ -72,7 +68,6 @@
   bottom: 6rem;
   font-size: 25px;
   font-weight: 800;
-  
 }
 .midWholePart13Parts {
   position: relative;
@@ -95,16 +90,15 @@
 }
 #light {
   padding-left: 4rem;
-  
 }
 #care {
   padding-left: 3rem;
-   
 }
-#monstera{
-
-    font-size: 6rem;
-    margin-bottom: 0;
-    
+#monstera {
+  font-size: 6rem;
+  margin-bottom: 0;
 }
+#desc{
+  width: 36rem;
 
+}
